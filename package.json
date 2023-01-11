@@ -40,7 +40,7 @@
   },
   "dependencies": {
     "bsplit": "1.0.x",
-    "debug": "2.6.x"
+    "debug": "3.1.x"
   },
   "browser": {
     "fs": false,
